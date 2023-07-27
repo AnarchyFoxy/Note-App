@@ -1,5 +1,3 @@
-Save the provided Python code into a file named "note_app.py".
-
 Open a terminal or command prompt.
 
 Navigate to the directory where you saved the "note_app.py" file using the cd command.
